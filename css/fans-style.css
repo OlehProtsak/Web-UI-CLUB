@@ -210,7 +210,7 @@ body {
     position: relative;
 }
 .header__list li a:hover {
-    color: darkred;
+    color: grey;
 }
 .header__list2 {
     display: none;

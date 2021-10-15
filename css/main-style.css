@@ -195,9 +195,7 @@ body {
 .header__list li a {
     position: relative;
 }
-.header__list li a:hover {
-    color: darkred;
-}
+
 .header__list2 {
     display: none;
     position: absolute;
@@ -206,6 +204,6 @@ body {
     padding: 0px 20px 20px 0px;
     background-color: black;
 }
-.header__list2 li a:hover {
-    color: darkred;
+.header__list li a:hover {
+    color: grey;
 }
